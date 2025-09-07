@@ -282,10 +282,6 @@ document.body.appendChild(container1);
 const style=document.createElement("style")
 style.textContent=`
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
